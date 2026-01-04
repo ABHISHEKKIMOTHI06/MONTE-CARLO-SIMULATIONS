@@ -1,0 +1,1 @@
+Developed Monte Carlo–based simulations to model uncertainty and generate probabilistic predictions through repeated random sampling, demonstrating stochastic modeling and statistical analysis skills.
